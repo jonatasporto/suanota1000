@@ -28,7 +28,7 @@ export default function RootLayout({
     <html lang="Pt-Br">
       <GoogleTagManage />
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}      
+        // className={`${geistSans.variable} ${geistMono.variable} antialiased`}      
       >
         {children}
       </body>
