@@ -9,7 +9,7 @@ const Features = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
           <div className="bg-white p-6 shadow-lg rounded-lg">
-            <h3 className="text-xl font-bold mb-2 text-black">Domínio da Norma-padrão</h3>
+            <h3 className="text-xl font-bold mb-2 ">Domínio da Norma-padrão</h3>
             <p className="text-sm text-black">Evite deslizes gramaticais que podem comprometer sua nota.</p>
           </div>
 

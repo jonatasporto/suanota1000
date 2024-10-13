@@ -11,6 +11,7 @@ const Testimonials = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <TestimonialCard name="Ana, Estudante" message="Consegui entender perfeitamente como organizar meus argumentos. Sem dúvidas, foi essencial para minha nota." />
         <TestimonialCard name="João, Vestibulando" message="O preço é inacreditável para a quantidade de valor que esse material entrega. Recomendo muito!" />
+        <TestimonialCard name="Maria, Vestibulando" message="Esse e-book é incrível! Me ensinou a escrever uma redação nota 1000 e me deu confiança para fazer provas." />
       </div>
     </div>
   </section>

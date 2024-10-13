@@ -8,8 +8,8 @@ const CallToAction = () => {
         <p className="text-lg mb-6">
           O tempo de agir é agora! Dê o primeiro passo rumo à sua nota 1000 no ENEM e mude sua história.
         </p>
-        <a href="#" className="bg-white text-orange-500 font-semibold px-8 py-3 rounded-md hover:bg-gray-200">
-          Baixe agora o e-book
+        <a href="https://chk.eduzz.com/CAC3A203" className="bg-white text-orange-500 font-semibold px-8 py-3 rounded-md hover:bg-gray-200">
+          Adquira agora o e-book
         </a>
       </div>
     </section>

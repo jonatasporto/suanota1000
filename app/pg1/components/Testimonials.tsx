@@ -17,6 +17,10 @@ const Testimonials = () => {
           <p>"O preço é inacreditável para a quantidade de valor que esse material entrega. Recomendo muito!"</p>
           <p className="mt-4 text-right font-bold">- João, Vestibulando</p>
         </div>
+        <div className="bg-white p-6 shadow-lg rounded-lg">
+          <p>"Esse e-book é incrível! Me ensinou a escrever uma redação nota 1000 e me deu confiança para fazer provas."</p>
+          <p className="mt-4 text-right font-bold">- Maria, Vestibulando</p>
+        </div>
       </div>
     </div>
   </section>

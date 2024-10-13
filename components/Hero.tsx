@@ -10,7 +10,7 @@ const Hero = () => {
         <p className="text-xl mb-6">
           Transforme sua redação com o nosso guia definitivo por apenas <span className="font-bold">R$19,90</span>.
         </p>
-        <a href="#cta" className="bg-white text-orange-500 font-semibold px-8 py-3 rounded-md hover:bg-gray-200">
+        <a href="https://chk.eduzz.com/CAC3A203" className="bg-white text-orange-500 font-semibold px-8 py-3 rounded-md hover:bg-gray-200">
           Garanta Agora
         </a>
       </div>

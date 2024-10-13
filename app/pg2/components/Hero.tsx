@@ -10,7 +10,7 @@ const Hero = () => {
         <p className="text-2xl mb-8 max-w-2xl mx-auto">
           Você já imaginou a sensação de abrir o resultado do ENEM e ver que alcançou a nota máxima na redação? 🤩 Esse sonho pode se tornar realidade com nosso e-book exclusivo!
         </p>
-        <a href="#cta" className="bg-white text-gray-900 font-semibold px-10 py-4 rounded-full shadow-lg hover:scale-105 transform transition duration-300">
+        <a href="https://chk.eduzz.com/CAC3A203" className="bg-white text-gray-900 font-semibold px-10 py-4 rounded-full shadow-lg hover:scale-105 transform transition duration-300">
           Garanta Agora
         </a>
       </div>
