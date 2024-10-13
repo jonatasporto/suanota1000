@@ -8,7 +8,7 @@ import Footer from '@/components/Footer';
 
 const page = () => {
   return (
-    <div className="min-h-screen ">
+    <div className="min-h-screen text-black">
       <Hero />
       <Features />
       <Comparisons />
