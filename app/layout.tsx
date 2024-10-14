@@ -27,12 +27,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="Pt-Br"> 
-     <Suspense fallback={null}>
+    
+     {/* <Suspense fallback={null}> */}
         <GoogleTagManage />
-      </Suspense>           
-      <body
+      {/* </Suspense>            */}
+      <body      
         // className={`${geistSans.variable} ${geistMono.variable} antialiased`}      
       >
+        testando
         {children}
       </body>      
     </html>
