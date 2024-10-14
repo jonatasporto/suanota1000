@@ -26,10 +26,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR">      
-      <Suspense fallback={null}>
+    <html lang="Pt-Br"> 
+     <Suspense fallback={null}>
         <GoogleTagManage />
-      </Suspense>
+      </Suspense>           
       <body
         // className={`${geistSans.variable} ${geistMono.variable} antialiased`}      
       >
